@@ -2,7 +2,8 @@
 
 ### ML Engineer with experience in AI innovation and experimentation
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermevaz8&label=Profile views&color=0e75b6&style=flat" alt="guilhermevaz8" /> </p>
+![Profile Views](https://views.igorkowalczyk.dev/api/badge/guilhermevaz8)
+
 
 - 🔭 I'm currently working on **building reliable, production-ready machine learning systems by combining robust infrastructure with hands-on experimentation across the full ML lifecycle**
 
